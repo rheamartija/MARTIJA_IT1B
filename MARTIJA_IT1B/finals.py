@@ -1,7 +1,7 @@
 from activity1 import greet
 print("----------")
 
-from activity2 import name
+from activity2 import comments
 print("----------")
 
 from activity3 import name
@@ -46,16 +46,16 @@ print("----------")
 from activity16 import sum
 print("----------")
 
-from activity17 import name
+from activity17 import greet
 print("----------")
 
-from activity18 import num
+from activity18 import greet
 print("----------")
 
-from activity19 import modules
+from activity19 import fruits
 print("----------")
 
-from activity20 import fruit1
+from activity20 import modules
 print("----------")
 
 from code_challenge1 import tri
