@@ -1,13 +1,16 @@
 #documentation strings / docstrings
 
-def factorial(number):
-    
-    fact = 1
-    for x in range(number,0,-1):
-        fact *= x
+greet = 1
+def greet(name):
+    """ This function takes a name as an argument and returns a grreting message.
 
-    return fact
+    Parameters:
+    name (str) : The name of the person to greet
 
-help(factorial)
-help(input)
-help(print)
+    Return:
+    str: A greeting message
+
+    """
+    return f"Hello,{name}!"
+
+print(greet("Rhea"))
