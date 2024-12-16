@@ -1,0 +1,2 @@
+tri = 1
+print("\t\t\t\t\t\t\t       * \n\t\t\t\t\t\t\t     * * * \n\t\t\t\t\t\t\t   * * * * *\n\t\t\t\t\t\t\t * * * * * * *\n\t\t\t\t\t\t\t   * * * * *\n\t\t\t\t\t\t\t     * * *\n\t\t\t\t\t\t\t       * \nRhea Charicce A. Martija \nBSIT-1B")
