@@ -1,16 +1,9 @@
-#list
+#modules
 
-fruit1 = "banana"
-fruit2 = "apple"
-fruit3 = "guyabano"
-fruit4 = "oranges"
-fruit5 = "avocado"
+modules = 1
 
-fruits = ["banana","apple","guyabano","oranges","avocado"]
+from activity18 import greet
+print("----------")
 
-print(fruits)
-
-print(f"My favorite fruit is {fruits[3]}")
-
-fruits.append("apple")
-print(fruits)
+from activity19 import fruits
+print("----------")
