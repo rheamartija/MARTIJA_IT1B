@@ -2,3 +2,4 @@
 #comments are ignore by the compiler which is python,nevertheless still an
 #important part of the program
 
+cooments = 1
